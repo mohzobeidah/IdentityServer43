@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Client.Controllers;
-
+//ddddddddddddddddddddddddddd
 [ApiController]
 [Route("[controller]")]
 [Authorize]
